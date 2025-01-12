@@ -196,12 +196,14 @@ Set don't maintain order
 # objects such as lists as keys.
 
 # creating a dictionary
-country_capitals = {
-  "Germany": "Berlin",
-  "Canada": "Ottawa",
-  "England": "London"
-}
-for i in country_capitals:
-    capital = country_capitals[i]
-    print(i," :- ",capital)
+# country_capitals = {
+#   "Germany": "Berlin",
+#   "Canada": "Ottawa",
+#   "England": "London"
+# }
+# for i in country_capitals:
+#     capital = country_capitals[i]
+#     print(i," :- ",capital)
+
+
 
