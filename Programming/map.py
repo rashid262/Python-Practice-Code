@@ -13,6 +13,19 @@
 #
 # print(list(map(double,tup)))
 
-li2 = [1,5,66]
+# li2 = [1,5,66]
+#
+# print(list(map(float,li2)))
 
-print(list(map(float,li2)))
+# nums = [1, 2, 2, 3, 3, 3, 4, 5, 4, 4]
+# dict = {}
+# for num in nums:
+#     if num in dict:
+#         dict[num] += 1
+#     else:
+#         dict[num] = 1
+#
+#
+# print(dict)
+
+

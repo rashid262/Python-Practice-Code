@@ -34,11 +34,43 @@ Use of the global keyword outside a function has no effect.
 # import  math as mt
 # print(dir(mt))  #this will show are the functions name in this module
 
-try:
-    numerator = 10
-    denominator = 0
-    result = numerator / denominator
-    print(result)
-except ZeroDivisionError:
-    print(ZeroDivisionError)
+# try:
+#     numerator = 10
+#     denominator = 0
+#     result = numerator / denominator
+#     print(result)
+# except ZeroDivisionError:
+#     print(ZeroDivisionError)
 
+
+# str1 = "i am not coming"
+# print(str1.count(" "))
+
+# class Circle:
+#     def __init__(self,radius):
+#         self.radius = radius
+#     def calculate_are(self):
+#         return 3.14 * self.radius * self.radius
+#
+# c1 = Circle(25)
+# print(c1.calculate_are())
+
+# def safe_division(x):
+#     return x / 2 if x%2 == 0 else " "
+# num = [safe_division(x) for x in range(1,11)]
+# print(num)
+
+# list with only off num
+
+# num = [x for x in range(1,11) if x%2 != 0]
+# print(num)
+
+num = []
+
+# for x in range(1,11):
+#     num.append(x)
+
+# for x in range(1,11):
+#     num.append(x**2)
+#
+# print(num)
