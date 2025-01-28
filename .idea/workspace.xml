@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="566e7e80-33ed-4701-a105-33f278758e44" name="Changes" comment="added file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary/file1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary/file1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListComprihension/file1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ListComprihension/file1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming/map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming/listinput.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming/listinput.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice4.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,19 +47,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.StringMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fun.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonFirst.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/OneDrive/Desktop/KodNest Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.GCD.executor": "Run",
+    "Python.StringMethods.executor": "Run",
+    "Python.Variables.executor": "Run",
+    "Python.armstrongNumber.executor": "Run",
+    "Python.decimalToBinary.executor": "Run",
+    "Python.digitcounter.executor": "Run",
+    "Python.fiboSeries.executor": "Run",
+    "Python.file1.executor": "Run",
+    "Python.file2.executor": "Run",
+    "Python.findAllFactors.executor": "Run",
+    "Python.find_a_string.executor": "Run",
+    "Python.findpercentage.executor": "Run",
+    "Python.fun.executor": "Run",
+    "Python.leapyear.executor": "Run",
+    "Python.maximizeit.executor": "Run",
+    "Python.mutation.executor": "Run",
+    "Python.pallindromecheck.executor": "Run",
+    "Python.perfectSquare.executor": "Run",
+    "Python.positivenegativezero.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.practice4.executor": "Run",
+    "Python.printevennumbers.executor": "Run",
+    "Python.pythonFirst.executor": "Run",
+    "Python.reverseOriginalNum.executor": "Run",
+    "Python.senioucitizendiscount.executor": "Run",
+    "Python.smallesdigitinanumber.executor": "Run",
+    "Python.splitjoin.executor": "Debug",
+    "Python.stringValidator.executor": "Run",
+    "Python.sumofnaturalnumbers.executor": "Run",
+    "Python.sumofodd.executor": "Run",
+    "Python.sumofsquare.executor": "Run",
+    "Python.swapcase.executor": "Run",
+    "Python.variables.executor": "Run",
+    "Python.vowelorconsunent.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/DELL/OneDrive/Desktop/KodNest Python",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\OneDrive\Desktop\KodNest Python" />

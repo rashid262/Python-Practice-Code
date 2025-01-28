@@ -48,23 +48,6 @@
 # dog = Dog()
 # dog.eat()
 
-#Multiple Inheritance
-# class Person:
-#     def introduce(self):
-#         print("Hello, i am a person")
-#
-# class Employee:
-#     def work(self):
-#         print("I am working")
-#
-# class Manager(Person,Employee):
-#     def manage(self):
-#         print("i am managing team")
-# myManager  = Manager()
-# myManager.introduce()
-# myManager.work()
-# myManager.manage()
-
 #Multilevel Inheritance
 # class Person:
 #     name = ""
@@ -91,29 +74,46 @@
 # manager.manage()
 
 #Hirarchical Inheritance
-class Vehicle:
-    brand = ""
-    def __init__(self,brand):
-        self.brand = brand
-    def display_brand(self):
-        print(f"This is a {self.brand} vehicle")
-class Car(Vehicle):
-    def __init__(self,brand):
-        super().__init__(brand)
-    def drive(self):
-        print("Car is driving")
-class Bike(Vehicle):
-    def __init__(self,brand):
-        super().__init__(brand)
-    def ride(self):
-        print("Bike is riding")
-car = Car("Baleno")
-bike = Bike("GT 700")
-print(car.brand)
-car.drive()
-print(bike.brand)
-bike.ride()
+# class Vehicle:
+#     brand = ""
+#     def __init__(self,brand):
+#         self.brand = brand
+#     def display_brand(self):
+#         print(f"This is a {self.brand} vehicle")
+# class Car(Vehicle):
+#     def __init__(self,brand):
+#         super().__init__(brand)
+#     def drive(self):
+#         print("Car is driving")
+# class Bike(Vehicle):
+#     def __init__(self,brand):
+#         super().__init__(brand)
+#     def ride(self):
+#         print("Bike is riding")
+# car = Car("Baleno")
+# bike = Bike("GT 700")
+# print(car.brand)
+# car.drive()
+# print(bike.brand)
+# bike.ride()
 
+
+# Multiple Inheritance
+class Person:
+    def introduce(self):
+        print("Hello, i am a person")
+
+class Employee:
+    def work(self):
+        print("I am working")
+
+class Manager(Person,Employee):
+    def manage(self):
+        print("i am managing team")
+myManager  = Manager()
+myManager.introduce()
+myManager.work()
+myManager.manage()
 
 
 

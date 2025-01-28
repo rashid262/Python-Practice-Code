@@ -26,8 +26,13 @@
 # num = int(input("How many sublist you want?: "))
 # for i in range(num):
 
-num = input("Enter space separated element: ").split(" ")
-print(list(map(int,num)))
+# num = input("Enter space separated element: ").split(" ")
+# print(list(map(int,num)))
+
+li1 = list(map(int,input("Enter space separated elements: ")))
+
+print(li1)
+
 
 
 
