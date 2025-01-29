@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="566e7e80-33ed-4701-a105-33f278758e44" name="Changes" comment="added file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming/listinput.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming/listinput.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice4.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOPS/EmployeeObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOPS/EmployeeObject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOPS/inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOPS/inheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +49,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.EmployeeObject.executor": "Run",
     "Python.GCD.executor": "Run",
+    "Python.MethodChaining.executor": "Run",
     "Python.StringMethods.executor": "Run",
     "Python.Variables.executor": "Run",
     "Python.armstrongNumber.executor": "Run",
+    "Python.constructor.executor": "Run",
+    "Python.constructorchaining.executor": "Run",
     "Python.decimalToBinary.executor": "Run",
     "Python.digitcounter.executor": "Run",
     "Python.fiboSeries.executor": "Run",
@@ -62,6 +66,7 @@
     "Python.find_a_string.executor": "Run",
     "Python.findpercentage.executor": "Run",
     "Python.fun.executor": "Run",
+    "Python.inheritance.executor": "Run",
     "Python.leapyear.executor": "Run",
     "Python.maximizeit.executor": "Run",
     "Python.mutation.executor": "Run",

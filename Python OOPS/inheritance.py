@@ -98,9 +98,12 @@
 # bike.ride()
 
 
-# Multiple Inheritance
+# Multiple Inheritance (Method Resolution Technique)
+# Search Sequence -> child_class --> first_written_in_inheritance --> _next_written_class_in_child_parameter_inheritance
+# (as soon as we got out member in any class search will be stopped)
+"""
 class Person:
-    def introduce(self):
+    def work(self):
         print("Hello, i am a person")
 
 class Employee:
@@ -109,11 +112,26 @@ class Employee:
 
 class Manager(Person,Employee):
     def manage(self):
-        print("i am managing team")
+        pass
 myManager  = Manager()
-myManager.introduce()
 myManager.work()
-myManager.manage()
+"""
+
+class Demo1:
+    def __init__(self):
+        self.x = 100
+class Demo2:
+    def __init__(self):
+        self.x = 200
+class Demo3(Demo2, Demo1):
+    def __init__(self):
+        self.x = 300
+
+
+obj1 = Demo3()
+print(obj1.x)
+
+
 
 
 
