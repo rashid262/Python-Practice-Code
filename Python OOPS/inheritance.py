@@ -117,19 +117,135 @@ myManager  = Manager()
 myManager.work()
 """
 
-class Demo1:
-    def __init__(self):
-        self.x = 100
-class Demo2:
-    def __init__(self):
-        self.x = 200
-class Demo3(Demo2, Demo1):
-    def __init__(self):
-        self.x = 300
+# class Demo1:
+#     def __init__(self):
+#         self.x = 100
+# class Demo2:
+#     def __init__(self):
+#         self.x = 200
+# class Demo3(Demo2, Demo1):
+#     def __init__(self):
+#         self.x = 300
+#
+#
+# obj1 = Demo3()
+# print(obj1.x)
+
+# class ElectricDevice:
+#     def __init__(self,brand,model):
+#         self.brand = brand
+#         self.model = model
+#     def display_device_info(self):
+#         print(f"Brand: {self.brand}")
+#         print(f"Model: {self.model}")
+#
+# class Warranty:
+#     def __init__(self,warranty_provider,warranty_expiry):
+#         self.warranty_provider = warranty_provider
+#         self.warranty_expiry = warranty_expiry
+#     def display_warranty_info(self):
+#         print(f"Warranty Provider: {self.warranty_provider}")
+#         print(f"Warranty Expiry: {self.warranty_expiry}")
+#
+# class Laptop(ElectricDevice,Warranty):
+#     def __init__(self,brand,model,serial_number,warranty_provider,warranty_expiry):
+#        ElectricDevice.__init__(self,brand,model)
+#        Warranty.__init__(self,warranty_provider,warranty_expiry)
+#        self.serial_number = serial_number
+#     def display_laptop_info(self):
+#         self.display_device_info()
+#         print(f"Serial Number: {self.serial_number}")
+#         self.display_warranty_info()
+#
+#
+# brand = input()
+# model = input()
+# serial_number = input()
+# warranty_provider = input()
+# warranty_expiry = input()
+#
+# laptop1 = Laptop(brand,model,serial_number,warranty_provider, warranty_expiry)
+# laptop1.display_laptop_info()
 
 
-obj1 = Demo3()
-print(obj1.x)
+# class Media:
+#     def __init__(self,title,author):
+#         self.title = title
+#         self.author = author
+#     def display_media_info(self):
+#         print(f"Title: {self.title}")
+#         print(f"Author: {self.author}")
+# class DigitalMedia(Media):
+#     def __init__(self,title,author,file_format):
+#         super().__init__(title,author)
+#         self.file_format = file_format
+#     def display_digital_media_info(self):
+#         super().display_media_info()
+#         print(f"File Format: {self.file_format}")
+# class Ebook(DigitalMedia):
+#     def __init__(self,title,author,file_format,file_size):
+#         super().__init__(title,author,file_format)
+#         self.file_size = file_size
+#     def display_ebook_info(self):
+#         self.display_digital_media_info()
+#         print(f"File Size: {self.file_size}")
+#
+# title = input()
+# author = input()
+# file_format = input()
+# file_size = input()
+#
+# ebook1 = Ebook(title,author,file_format,file_size)
+# ebook1.display_ebook_info()
+
+# class Vehicle:
+#     def __init__(self,brand,model):
+#         self.brand = brand
+#         self.model = model
+#     def display_vehicle_info(self):
+#         print(f"Brand: {self.brand}")
+#         print(f"Model: {self.model}")
+# class Engine:
+#     def __init__(self,engine_type):
+#         self.engine_type = engine_type
+#     def display_engine_info(self):
+#         print(f"Engine Type: {self.engine_type}")
+# class Car(Vehicle,Engine):
+#     def __init__(self,brand,model,engine_type,battery_capacity):
+#         Vehicle.__init__(self,brand,model)
+#         Engine.__init__(self,engine_type)
+#         self.battery_capacity = battery_capacity
+#     def display_electric_car_info(self):
+#         self.display_vehicle_info()
+#         self.display_engine_info()
+#         print(f"Battery Capacity: {self.battery_capacity}")
+#
+# brand = input()
+# model = input()
+# engine_type = input()
+# battery_capacity = input()
+# ev1 = Car(brand,model,engine_type,battery_capacity)
+# ev1.display_electric_car_info()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

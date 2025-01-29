@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="566e7e80-33ed-4701-a105-33f278758e44" name="Changes" comment="added file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/file1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/file1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOPS/inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOPS/inheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,53 +47,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.EmployeeObject.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GCD.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MethodChaining.executor&quot;: &quot;Run&quot;,
-    &quot;Python.StringMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.armstrongNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.constructorchaining.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decimalToBinary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.digitcounter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fiboSeries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.findAllFactors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.find_a_string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.findpercentage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fun.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leapyear.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maximizeit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mutation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pallindromecheck.executor&quot;: &quot;Run&quot;,
-    &quot;Python.perfectSquare.executor&quot;: &quot;Run&quot;,
-    &quot;Python.positivenegativezero.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.printevennumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonFirst.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reverseOriginalNum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.senioucitizendiscount.executor&quot;: &quot;Run&quot;,
-    &quot;Python.smallesdigitinanumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.splitjoin.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.stringValidator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sumofnaturalnumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sumofodd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sumofsquare.executor&quot;: &quot;Run&quot;,
-    &quot;Python.swapcase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vowelorconsunent.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/OneDrive/Desktop/KodNest Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Ductyping.executor": "Run",
+    "Python.EmployeeObject.executor": "Run",
+    "Python.GCD.executor": "Run",
+    "Python.MRO.executor": "Run",
+    "Python.MethodChaining.executor": "Run",
+    "Python.MethodOverriding.executor": "Run",
+    "Python.StringMethods.executor": "Run",
+    "Python.Variables.executor": "Run",
+    "Python.armstrongNumber.executor": "Run",
+    "Python.constructor.executor": "Run",
+    "Python.constructorchaining.executor": "Run",
+    "Python.decimalToBinary.executor": "Run",
+    "Python.digitcounter.executor": "Run",
+    "Python.fiboSeries.executor": "Run",
+    "Python.file1.executor": "Run",
+    "Python.file2.executor": "Run",
+    "Python.findAllFactors.executor": "Run",
+    "Python.find_a_string.executor": "Run",
+    "Python.findpercentage.executor": "Run",
+    "Python.fun.executor": "Run",
+    "Python.inheritance.executor": "Run",
+    "Python.leapyear.executor": "Run",
+    "Python.maximizeit.executor": "Run",
+    "Python.mutation.executor": "Run",
+    "Python.pallindromecheck.executor": "Run",
+    "Python.perfectSquare.executor": "Run",
+    "Python.positivenegativezero.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.practice4.executor": "Run",
+    "Python.printevennumbers.executor": "Run",
+    "Python.pythonFirst.executor": "Run",
+    "Python.reverseOriginalNum.executor": "Run",
+    "Python.senioucitizendiscount.executor": "Run",
+    "Python.smallesdigitinanumber.executor": "Run",
+    "Python.splitjoin.executor": "Debug",
+    "Python.stringValidator.executor": "Run",
+    "Python.sumofnaturalnumbers.executor": "Run",
+    "Python.sumofodd.executor": "Run",
+    "Python.sumofsquare.executor": "Run",
+    "Python.swapcase.executor": "Run",
+    "Python.variables.executor": "Run",
+    "Python.vowelorconsunent.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/DELL/OneDrive/Desktop/KodNest Python",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\OneDrive\Desktop\KodNest Python" />
@@ -114,6 +119,15 @@
       <option name="presentableId" value="Default" />
       <updated>1736165538323</updated>
     </task>
+    <task id="LOCAL-00001" summary="added file">
+      <option name="closed" value="true" />
+      <created>1738133793191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738133793191</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
