@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="566e7e80-33ed-4701-a105-33f278758e44" name="Changes" comment="added file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/file1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/file1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOPS/inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOPS/inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceDataType/file1.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceDataType/file1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice4.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
     "Python.vowelorconsunent.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/DELL/OneDrive/Desktop/KodNest Python",
+    "last_opened_file_path": "C:/Users/DELL/OneDrive/Desktop/Blog App",
     "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
