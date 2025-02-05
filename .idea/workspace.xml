@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="566e7e80-33ed-4701-a105-33f278758e44" name="Changes" comment="added file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdvanceDataType/file1.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceDataType/file1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice4.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +53,7 @@
     "Python.MRO.executor": "Run",
     "Python.MethodChaining.executor": "Run",
     "Python.MethodOverriding.executor": "Run",
+    "Python.Operatoroverloading.executor": "Run",
     "Python.StringMethods.executor": "Run",
     "Python.Variables.executor": "Run",
     "Python.armstrongNumber.executor": "Run",
@@ -70,6 +69,7 @@
     "Python.findpercentage.executor": "Run",
     "Python.fun.executor": "Run",
     "Python.inheritance.executor": "Run",
+    "Python.intro.executor": "Run",
     "Python.leapyear.executor": "Run",
     "Python.maximizeit.executor": "Run",
     "Python.mutation.executor": "Run",
@@ -78,6 +78,7 @@
     "Python.positivenegativezero.executor": "Run",
     "Python.practice.executor": "Run",
     "Python.practice4.executor": "Run",
+    "Python.practice5.executor": "Run",
     "Python.printevennumbers.executor": "Run",
     "Python.pythonFirst.executor": "Run",
     "Python.reverseOriginalNum.executor": "Run",
