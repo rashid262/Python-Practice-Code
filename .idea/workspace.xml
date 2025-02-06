@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="566e7e80-33ed-4701-a105-33f278758e44" name="Changes" comment="added file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception Handling/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exception Handling/intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/oopsPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/oopsPractice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,7 @@
     "Python.armstrongNumber.executor": "Run",
     "Python.constructor.executor": "Run",
     "Python.constructorchaining.executor": "Run",
+    "Python.customexception.executor": "Run",
     "Python.decimalToBinary.executor": "Run",
     "Python.digitcounter.executor": "Run",
     "Python.fiboSeries.executor": "Run",
@@ -77,7 +80,10 @@
     "Python.intro.executor": "Run",
     "Python.leapyear.executor": "Run",
     "Python.maximizeit.executor": "Run",
+    "Python.multiple xception.executor": "Run",
+    "Python.multithreading.executor": "Run",
     "Python.mutation.executor": "Run",
+    "Python.oopsPractice.executor": "Run",
     "Python.pallindromecheck.executor": "Run",
     "Python.perfectSquare.executor": "Run",
     "Python.positivenegativezero.executor": "Run",
@@ -86,8 +92,10 @@
     "Python.practice5.executor": "Run",
     "Python.printevennumbers.executor": "Run",
     "Python.pythonFirst.executor": "Run",
+    "Python.raisekeyword.executor": "Run",
     "Python.reverseOriginalNum.executor": "Run",
     "Python.senioucitizendiscount.executor": "Run",
+    "Python.singleThread.executor": "Run",
     "Python.smallesdigitinanumber.executor": "Run",
     "Python.splitjoin.executor": "Debug",
     "Python.stringValidator.executor": "Run",
