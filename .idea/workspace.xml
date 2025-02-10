@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="566e7e80-33ed-4701-a105-33f278758e44" name="Changes" comment="added file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception Handling/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exception Handling/intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/oopsPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/oopsPractice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threading/multithreading.py" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/multithreading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threading/singleThread.py" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/singleThread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice5.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,10 +64,12 @@
     "Python.Public.executor": "Run",
     "Python.StringMethods.executor": "Run",
     "Python.Variables.executor": "Run",
+    "Python.VowelGame.executor": "Run",
     "Python.armstrongNumber.executor": "Run",
     "Python.constructor.executor": "Run",
     "Python.constructorchaining.executor": "Run",
     "Python.customexception.executor": "Run",
+    "Python.daemon.executor": "Run",
     "Python.decimalToBinary.executor": "Run",
     "Python.digitcounter.executor": "Run",
     "Python.fiboSeries.executor": "Run",
@@ -107,7 +110,7 @@
     "Python.vowelorconsunent.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/DELL/OneDrive/Desktop/Blog App",
+    "last_opened_file_path": "C:/Users/DELL/OneDrive/Desktop/KodNest Python",
     "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
