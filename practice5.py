@@ -52,17 +52,67 @@
 #
 
 
-li = list(map(int,input().split(",")))
-dict = {}
-for i in li:
-    if i not in dict:
-        dict[i] = 0
-    else:
-        dict[i] += 1
-max = float('-inf')
-for key,value in dict.items():
-    if value > max:
-        max = value
-print(dict)
+# li = list(map(int,input().split(",")))
+# dict = {}
+# for i in li:
+#     if i not in dict:
+#         dict[i] = 0
+#     else:
+#         dict[i] += 1
+# max = float('-inf')
+# for key,value in dict.items():
+#     if value > max:
+#         max = value
+# print(dict)
+word_count = {}  # Use a more appropriate variable name
+
+# words = input().strip().split()
+# # Example input: this is ansari.trying to, get placed,,
+#
+# for word in words:
+#     word = word.strip(",.")  # Remove trailing commas and periods
+#     if word in word_count:
+#         word_count[word] += 1
+#     else:
+#         word_count[word] = 1
+
+# print(word_count)
+
+# def fibonacci(num):
+#     a,b = 0,1
+#     for i in range(num):
+#         yield a
+#         a,b = b, a + b
+#
+# fibogen = fibonacci(10) #create iterator object for iterator function
+# for i in fibogen:
+#     print(i)
+
+
+gen_num = (x for x in range(1,1000))
+print(next(gen_num))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
