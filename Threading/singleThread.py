@@ -1,5 +1,4 @@
-# single thread is controlling ths code in a sequential manner
-
+# single thread is controlling ths code in a sequential manne
 import threading
 li1 = [1,2,3,4,5,6,7,8,9]
 li2 = ['a','b','c','d','e']
@@ -12,7 +11,7 @@ def displayAlpha(li2):
         print(i,end=" ")
 
 
+
 displayDigit(li1)
 print()
 displayAlpha(li2)
-print(threading.currentThread())
